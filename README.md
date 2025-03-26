@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/bd4f4fd4-0e95-49ae-84cf-2f3ef041420d)
+![image](https://github.com/user-attachments/assets/92eb9779-fcc6-431c-8dd0-72e32f803ffb)
 
 <hr>
 
-<p align="center">Loja do VRF</p>
+<p align="center">My first react app</p>
 
 ## Tecnologias utilizadas no projeto
 * HTML
