@@ -1,5 +1,6 @@
 {
   "name": "alura-studies",
+  "homepage": "https://seu-usuario.github.io/alura-studies",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
