@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-fist-react-app/static/css/main.a1ab383f.css",
+    "main.js": "/my-fist-react-app/static/js/main.c67c4980.js",
+    "static/media/check-mark.svg": "/my-fist-react-app/static/media/check-mark.bce2b13879a866366047.svg",
+    "index.html": "/my-fist-react-app/index.html",
+    "main.a1ab383f.css.map": "/my-fist-react-app/static/css/main.a1ab383f.css.map",
+    "main.c67c4980.js.map": "/my-fist-react-app/static/js/main.c67c4980.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1ab383f.css",
+    "static/js/main.c67c4980.js"
+  ]
+}
