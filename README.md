@@ -6,9 +6,8 @@
 
 ## Tecnologias utilizadas no projeto
 * HTML
-* CSS
-* Tailwind
-* Ts
+* SASS
+* TS
 * React
 
 ## Link:
